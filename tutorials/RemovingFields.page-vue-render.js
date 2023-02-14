@@ -77,7 +77,7 @@ with(this){return _c('p',[_v("A quick look at the "),_c('code',{pre:true,attrs:{
 with(this){return _c('p',[_c('strong',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PersonCard.java")])])])}
 },function anonymous(
 ) {
-with(this){return _c('pre',[_c('code',{pre:true,attrs:{"class":"hljs"}},[_c('span',[_v("...\n")]),_c('span',[_v("@FXML\n")]),_c('span',[_v("private Label address;\n")]),_c('span',[_v("...\n")])])])}
+with(this){return _c('pre',[_c('code',{pre:true,attrs:{"class":"hljs java"}},[_c('span',[_v("...\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"hljs-meta"}},[_v("@FXML")]),_v("\n")]),_c('span',[_c('span',{pre:true,attrs:{"class":"hljs-keyword"}},[_v("private")]),_v(" Label address;\n")]),_c('span',[_v("...\n")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("PersonCard.fxml")])])])}
@@ -107,6 +107,6 @@ with(this){return _c('pre',[_c('code',{pre:true,attrs:{"class":"hljs json"}},[_c
 with(this){return _c('p',[_v("You can go through each individual "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("json")]),_v(" file and manually remove the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("address")]),_v(" field.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Tue, 14 Feb 2023, 4:08:44 UTC]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Tue, 14 Feb 2023, 5:43:53 UTC]")])])])}
 }];
   
